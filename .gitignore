@@ -1,0 +1,7 @@
+#my .gitignore file
+tempfile.txt
+.DS_Store
+*.zip
+*.gz
+
+
