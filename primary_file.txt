@@ -1,6 +1,6 @@
 newer info for dbproject
-This is the first file that I added to my project.
+This is the first REAL file that I added to my project.
 
-New information.....
+New REAL information.....
 
-It comes before all other files
+It comes before all other REAL files
