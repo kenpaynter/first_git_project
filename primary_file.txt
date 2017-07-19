@@ -1,6 +1,6 @@
 newer info for dbproject
-This is the first file that I added to my project.
+This is the first SYMBOLIC file that I added to my project.
 
-New information.....
+New SYMBOLIC information.....
 
-It comes before all other files
+It comes before all other SYMBOLIC files
