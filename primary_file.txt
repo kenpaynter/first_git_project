@@ -1,6 +1,8 @@
 newer info for dbproject
+
 This is the first SYMBOLIC file that I added to my project.
 
-New SYMBOLIC information.....
+New REAL information.....
 
 It comes before all other SYMBOLIC files
+
